@@ -10,10 +10,12 @@ You can download the code and/or use the following command:
 ```
 Then you can use it to your heart's content!
 ### Implementation
+This is in C.
 ```
-<include file.h>
+/* This is licensed under the GNU General Public License */
+<include file.h> // This is just for example
 int main(){
-	blah blah blah
+	// blah blah blah
 }
 ```
 ## Where I got the code
